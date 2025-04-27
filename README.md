@@ -92,17 +92,17 @@ Birbal AI proposes an inclusive, scalable, and innovative suite of tools leverag
 - GitHub Wiki covering CI/CD pipelines, data labeling protocols, and model retraining processes.
 
 ### User Documentation
-- Planned for public platform launch (Q4 Year 1) via web-based knowledge hub.
+- Planned for public platform launch via web-based knowledge hub.
 
 ### API Documentation
-- OpenAPI 3.0-compliant documentation using Swagger UI for moderation APIs and public dashboards (Planned Q3 Year 1).
+- OpenAPI 3.0-compliant documentation using Swagger UI for moderation APIs and public dashboards.
 
 ---
 
 ## 📖 Licensing and Open Source Intentions
 
 - **Open Source (Apache 2.0 / MIT / GPLv3):**  
-  All AI moderation engines, blockchain provenance tools, and crowd moderation APIs after Q4 Year 1, post-stabilization.
+  All AI moderation engines, blockchain provenance tools, and crowd moderation APIs, post-stabilization.
 
 - **Proprietary:**  
   AI personalization reports, enterprise analytics dashboards, and AI Ethics Toolkit to be retained as commercial IP.
